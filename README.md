@@ -1,16 +1,25 @@
-### Hi there 👋
+# Bienvenue sur mon profil GitHub ! 👋
 
-<!--
-**Fenysk/Fenysk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Qui suis-je ? 🤔
 
-Here are some ideas to get you started:
+Je suis Fenysk, spécialisé dans le développement d'applications web.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Expertises 💻
+
+### Frontend
+- Vue / Nuxt 🖼️
+- TailwindCSS 🎨
+
+### Backend
+- NestJS 🛠️
+- Prisma 📊
+
+## Me contacter 📧
+
+Pour toute question ou collaboration, [n'hésitez pas à m'envoyer un e-mail](mailto:fenysk.pro@gmail.com) 📬.
+
+## Projets 🚀
+
+### À venir...
+
+Restez à l'écoute pour les mises à jour !
