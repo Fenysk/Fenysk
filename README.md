@@ -14,12 +14,12 @@ Je suis Fenysk, spécialisé dans le développement d'applications web.
 - NestJS 🛠️
 - Prisma 📊
 
-## Me contacter 📧
-
-Pour toute question ou collaboration, [n'hésitez pas à m'envoyer un e-mail](mailto:fenysk.pro@gmail.com) 📬.
-
 ## Projets 🚀
 
 ### À venir...
+
+## Me contacter 📧
+
+Pour toute question ou collaboration, [n'hésitez pas à m'envoyer un e-mail](mailto:fenysk.pro@gmail.com) 📬.
 
 Restez à l'écoute pour les mises à jour !
