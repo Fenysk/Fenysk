@@ -14,6 +14,9 @@ Je suis Fenysk, spécialisé dans le développement d'applications web.
 - NestJS 🛠️
 - Prisma 📊
 
+## Apprentissage en cours
+- Angular 17 🅰️
+
 ## Projets 🚀
 
 ### À venir...
