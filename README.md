@@ -15,7 +15,7 @@ Je suis Fenysk, spécialisé dans le développement d'applications web.
 - Prisma 📊
 
 ## Apprentissage en cours
-- Angular 17 🅰️
+- Angular 17 🅰️ à travers un projet de [Pokédex](https://github.com/Fenysk/ng-pokemon-app).
 
 ## Projets 🚀
 
