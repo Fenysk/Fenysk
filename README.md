@@ -14,13 +14,35 @@ Je suis Fenysk, spécialisé dans le développement d'applications web.
 - NestJS 🛠️
 - Prisma 📊
 
+### Soft skills
+
+#### Outils et technos
+- Postman 🚀 / Insomnia 🌙 / Bruno 🐶
+- Docker 🐳
+
+#### Principes
+- ...
+
+#### Design patterns
+- Guards Clauses
+
 ## Apprentissage en cours
+- Jest 🧪 + TDD
+- Principes SOLID
+
+## J'ai les bases
 - Angular 17 🅰️ à travers un projet de [Pokédex](https://pokedex-by-fenysk.vercel.app/)
   ([Dépôt du projet](https://github.com/Fenysk/ng-pokemon-app)).
+- React ⚛️
 
 ## Projets 🚀
 
-### À venir...
+### En cours...
+- Marketplace de jeux-vidéo physiques
+
+### Abouti
+
+À venir...
 
 ## Me contacter 📧
 
