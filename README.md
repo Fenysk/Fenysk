@@ -17,7 +17,7 @@ Je suis Fenysk, spécialisé dans le développement d'applications web.
 ### Soft skills
 
 #### Outils et technos
-- Postman 🚀 / Insomnia 🌙 / Bruno 🐶
+- Insomnia 🌙 (similaire à Postman 🚀 et Bruno 🐶)
 - Docker 🐳
 
 #### Principes
