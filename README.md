@@ -20,20 +20,14 @@ Je suis Fenysk, spécialisé dans le développement d'applications web.
 - Insomnia 🌙 (similaire à Postman 🚀 et Bruno 🐶)
 - Docker 🐳
 
-#### Principes
-- ...
-
-#### Design patterns
-- Guards Clauses
-
 ## Apprentissage en cours
-- Jest 🧪 + TDD
-- Principes SOLID
+- Flutter 📱
 
 ## J'ai les bases
 - Angular 17 🅰️ à travers un projet de [Pokédex](https://pokedex-by-fenysk.vercel.app/)
   ([Dépôt du projet](https://github.com/Fenysk/ng-pokemon-app)).
 - React ⚛️
+- FlutterFlow 📱
 
 ## Projets 🚀
 
