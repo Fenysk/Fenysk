@@ -31,7 +31,7 @@ Je suis Fenysk, spécialisé dans le développement d'applications multiplatefor
 ## Projets 🚀
 
 ### En cours...
-- Clone de Threads ([front](https://github.com/Fenysk/threads_clone_frontend) & [back](https://github.com/Fenysk/threads_clone_backend))
+- Clone de [Threads](https://threads.net) ([front](https://github.com/Fenysk/threads_clone_frontend) & [back](https://github.com/Fenysk/threads_clone_backend)) [![Language & Tools used](https://skillicons.dev/icons?i=flutter,dart,nestjs,ts,prisma,vercel)](https://skillicons.dev)
 
 ### Abouti
 
