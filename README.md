@@ -35,8 +35,8 @@ Je suis Fenysk, spécialisé dans le développement d'applications multiplatefor
 
 ### Abouti
 
-- 2024 - [Batemates](batemates.app) : application de visioconférence pour adultes
-- 2021 - [JeChangeMaVoiture.fr](https://JeChangeMaVoiture.fr) : site vitrine de vente de voitures neuves et occasions.
+- 2024 - [Batemates](https://batemates.app) : application desktop de visioconférence pour adultes [![Language & Tools used](https://skillicons.dev/icons?i=flutter,dart,windows,apple)](https://skillicons.dev)
+- 2021 - [JeChangeMaVoiture.fr](https://JeChangeMaVoiture.fr) : site vitrine de vente de voitures neuves et occasions [![Language & Tools used](https://skillicons.dev/icons?i=html,css,javascript)](https://skillicons.dev)
 
 ## Me contacter 📧
 
