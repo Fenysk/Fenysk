@@ -7,7 +7,7 @@ Je suis Fenysk, spécialisé dans le développement d'applications multiplatefor
 ## Expertises 💻
 
 ### Frontend
-- Flutter / FlutterFlow
+- Flutter / FlutterFlow 📱
 - Vue / Nuxt 🖼️
 
 ### Backend
